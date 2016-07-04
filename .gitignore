@@ -1,0 +1,25 @@
+# Specifies intentionally untracked files to ignore when using Git
+# http://git-scm.com/docs/gitignore
+
+# dependencies
+node_modules/
+/typings
+
+# output
+/www
+
+# cordova
+/platforms
+/plugins
+
+# caches
+/cache
+
+# --
+*.swp
+.vscode/**/*.*
+!.vscode/**/*.json
+.DS_Store
+Thumbs.db
+*.log
+/__ignore

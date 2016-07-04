@@ -1,0 +1,50 @@
+{
+  "dependencies": {
+    "@angular/common": "^2.0.0-rc.4",
+    "@angular/compiler": "^2.0.0-rc.4",
+    "@angular/core": "^2.0.0-rc.4",
+    "@angular/http": "^2.0.0-rc.4",
+    "@angular/platform-browser": "^2.0.0-rc.4",
+    "@angular/platform-browser-dynamic": "^2.0.0-rc.4",
+    "@angular/router": "^3.0.0-beta.2",
+    "axios": "^0.12.0",
+    "bootstrap": "^3.3.6",
+    "es6-shim": "^0.35.0",
+    "jquery": "^3.0.0",
+    "lodash": "^4.13.1",
+    "reflect-metadata": "^0.1.3",
+    "rxjs": "5.0.0-beta.6",
+    "zone.js": "^0.6.12"
+  },
+  "scripts": {
+    "build": "gulp build",
+    "watch": "gulp watch",
+    "serve": "gulp serve"
+  },
+  "devDependencies": {
+    "clean-webpack-plugin": "^0.1.8",
+    "copy-webpack-plugin": "^2.1.3",
+    "css-loader": "^0.23.1",
+    "extract-text-webpack-plugin": "^1.0.1",
+    "file-loader": "^0.8.5",
+    "gulp": "^3.9.1",
+    "gulp-webpack": "^1.5.0",
+    "gulp-webserver": "^0.9.1",
+    "less": "^2.7.1",
+    "less-loader": "^2.2.3",
+    "node-sass": "^3.6.0",
+    "raw-loader": "^0.5.1",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "ts-loader": "^0.8.2",
+    "tslint": "^3.11.0",
+    "typescript": "^1.8.10",
+    "url-loader": "^0.5.7",
+    "webpack": "^1.13.0"
+  },
+  "version": "1.0.0",
+  "name": "angular2-webpack-seed",
+  "description": "",
+  "cordovaPlugins": [],
+  "cordovaPlatforms": []
+}

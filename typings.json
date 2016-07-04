@@ -1,0 +1,11 @@
+{
+  "name": "angular2-webpack-seed",
+  "globalDependencies": {
+    "Q": "github:DefinitelyTyped/DefinitelyTyped/q/Q.d.ts#19b6e80e68f7dec21e453c225680fe3d9899e946",
+    "axios": "registry:dt/axios#0.9.1+20160629101425",
+    "es6-shim": "github:DefinitelyTyped/DefinitelyTyped/es6-shim/es6-shim.d.ts#1315d46f8066eec8c197914da88e98629ebc2254",
+    "gulp": "github:DefinitelyTyped/DefinitelyTyped/gulp/gulp.d.ts#1315d46f8066eec8c197914da88e98629ebc2254",
+    "node": "github:DefinitelyTyped/DefinitelyTyped/node/node.d.ts#1315d46f8066eec8c197914da88e98629ebc2254",
+    "orchestrator": "github:DefinitelyTyped/DefinitelyTyped/orchestrator/orchestrator.d.ts#1315d46f8066eec8c197914da88e98629ebc2254"
+  }
+}
